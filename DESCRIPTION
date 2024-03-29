@@ -2,7 +2,7 @@ Package: SemiPar.depCens
 Type: Package
 Title: Copula Based Cox Proportional Hazards Models for Dependent
         Censoring
-Version: 0.1.1
+Version: 0.1.2
 Date: 2024-02-27
 Authors@R: c(
     person("Negera Wakgari", "Deresa", email = "negera.deresa@gmail.com", role = c("aut", "cre"), comment = c(ORCID = "0000-0002-1302-3725")),
@@ -29,9 +29,9 @@ Config/testthat/edition: 3
 URL: https://github.com/Nago2020/SemiPar.depCens
 BugReports: https://github.com/Nago2020/SemiPar.depCens/issues
 NeedsCompilation: no
-Packaged: 2024-02-28 23:13:41 UTC; lucp11636
+Packaged: 2024-03-29 16:08:30 UTC; Negera Deresa
 Author: Negera Wakgari Deresa [aut, cre]
     (<https://orcid.org/0000-0002-1302-3725>),
   Ingrid Van Keilegom [aut] (<https://orcid.org/0000-0001-8827-7642>)
 Repository: CRAN
-Date/Publication: 2024-02-29 20:42:46 UTC
+Date/Publication: 2024-03-29 16:30:05 UTC
